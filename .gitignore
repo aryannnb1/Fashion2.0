@@ -1,0 +1,11 @@
+venv/
+vision_env/
+.env/
+
+data/
+
+.ipynb_checkpoints/
+
+__pycache__/
+*.pyc
+*.pyo
